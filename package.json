@@ -1,0 +1,21 @@
+{
+  "name": "performance-service",
+  "version": "0.0.0",
+  "description": "PerformanceService",
+  "main": "app.js",
+  "author": {
+    "name": "David.Manrique"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mocha": "^3.2.0",
+    "mongoose": "^4.9.0",
+    "ping": "^0.2.2",
+    "redis": "^2.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
